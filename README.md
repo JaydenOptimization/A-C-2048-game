@@ -1,0 +1,1 @@
+g++ -o game2048 main.cpp g2048.cpp g2048.h panel.h
